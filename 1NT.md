@@ -1,3 +1,4 @@
+```mermaid
 graph LR
 
 %% ===== DEFINICJE STYLI =====
@@ -13,3 +14,4 @@ A --> B2[1♦]:::diamond
 A --> B3[1♥]:::heart
 A --> B4[1♠]:::spade
 A --> B5[1NT]:::nt
+```
